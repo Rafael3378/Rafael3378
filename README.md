@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Rafael3378
-- 👀 I’m interested in development
-- 🌱 I’m currently learning PHP and JavaScript
-- 💞️ I’m looking to collaborate (internship 4 month)
-- 📫 mendes.rafael78@gmail.com or Linkedin
+- 👀 I’m interested in development software
+- 🌱 I’m currently learning C#
+- ⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️ I’m looking to collaborate (internship 4 month) in Bordeaux 🍷 or in Paris 🗼
+- 📫 mendes.rafael78@gmail.com or Linkedin (Jean Rafael Mendes)
 
 <!---
 Rafael3378/Rafael3378 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
