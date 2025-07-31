@@ -1,9 +1,3 @@
-⚠️⚠️⚠️ I’m looking to collaborate in Bordeaux 🍷 Paris 🗼 or in Réunion Island🌴. I’m using PHP and Symfony 🌱.
-📫 contact@rafaelmendes.fr or Linkedin (Jean Rafael Mendes)
-
-⚠️⚠️⚠️ Je suis actuellement disponible sur Bordeaux 🍷 Paris 🗼 ou à la Réunion 🌴. Je pratique actuellement en PHP et Symfony 🌱.
-📫 contact@rafaelmendes.fr ou Linkedin (Jean Rafael Mendes)
-
 # 👋 Salut, moi c'est JR !
 
 ## 🚀 À propos de moi
@@ -51,10 +45,12 @@
 
 - ⭐ **Features** : Animations, Score système, Responsive design
 
-## 📈 Contribution Activity
+## 📈 Un peu de moi
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rafael3378&theme=radical" alt="Streak GitHub" />
+  ⚠️I’m looking to collaborate in Bordeaux 🍷 Paris 🗼 or in Réunion Island 🌴.
+
+  ⚠️Je suis actuellement disponible sur Bordeaux 🍷 Paris 🗼 ou à la Réunion 🌴.
 </div>
 
 ## 🌍 Où me trouver
